@@ -18,7 +18,7 @@ Markdown==3.0.1
 MarkupSafe==1.0
 Mastodon.py==1.5.1
 pelican==3.7.1
-Pillow==7.2.0
+Pillow==8.2.0
 Pygments==2.2.0
 python-dateutil==2.7.3
 python-magic==0.4.18
